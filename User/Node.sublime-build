@@ -1,0 +1,4 @@
+{
+  "cmd": ["/Users/fnando/local/node/current/bin/node", "$file"],
+  "selector": "source.js"
+}
