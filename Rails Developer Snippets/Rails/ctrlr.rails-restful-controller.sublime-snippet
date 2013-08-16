@@ -17,7 +17,7 @@
 	end
 
 	def create
-		@${2:user} = User.new(params[:${2:user}])
+		@${2:user} = ${1:User}.new(params[:${2:user}])
 		if @${2:user}.save
 		  flash[:success] = "${1:User} successfully created"
 		  redirect_to @${2:user}
@@ -40,10 +40,10 @@
 	def destroy
 		if @${2:user}.destroy
 			flash[:success] = "${1:User} was successfully deleted"
-			redirect_to @${2:user}s_url
+			redirect_to @${2:user}s_path
 		else
 			flash[:error] = "Something went wrong"
-			redirect_to @${2:user}s_url
+			redirect_to @${2:user}s_path
 		end
 	end
 

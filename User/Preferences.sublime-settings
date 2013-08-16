@@ -63,8 +63,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Sass",
 		"Vintage",
-		".DS_Store"
+		"Pretty JSON",
+		"SplitScreen-Resizer",
+		".DS_Store",
+		"Solarized Color Scheme"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -81,6 +85,7 @@
 	"save_on_focus_lost": false,
 	"show_full_path": true,
 	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,

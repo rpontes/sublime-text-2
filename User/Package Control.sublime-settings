@@ -10,6 +10,7 @@
 		"CoffeeScript",
 		"ColorPick",
 		"DetectSyntax",
+		"Emmet",
 		"ERB Insert and Toggle Commands",
 		"Expand Selection to Quotes",
 		"FindKeyConflicts",
@@ -19,10 +20,12 @@
 		"GitGutter",
 		"GitHubinator",
 		"Gitignore",
+		"GoSublime",
 		"Handlebars",
 		"Hayaku - tools for writing CSS faster",
 		"IndentGuides",
 		"Jasmine",
+		"JavaScript Patterns",
 		"Markdown Preview",
 		"nginx",
 		"Package Control",
@@ -39,7 +42,11 @@
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"SplitScreen",
+		"SplitScreen-Resizer",
+		"Theme - Flatland",
+		"Theme - Soda",
 		"Toggle Symbol to String",
-		"WordCount"
+		"WordCount",
+		"Zurb Foundation 4 Snippets"
 	]
 }
